@@ -21,3 +21,7 @@
 ##### rename as reaction and past reaction data set
 add one more sheet and rename as reaction type and paste reaction data type there
 so our task is completed according to the requirement of submitting  a single data file to perform the further analysis.
+
+
+###SCREEN SHOT
+![Screenshot 2024-06-12 011647](https://github.com/AMAN1011011/accenture-VI-analytics-and-visualization-task/assets/95334005/3fbb124c-f65a-4136-8033-ab498664cfcc)

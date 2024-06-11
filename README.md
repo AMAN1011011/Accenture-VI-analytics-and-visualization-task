@@ -4,6 +4,9 @@
 #### Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 #### Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
+### SCREEN SHOT
+![WhatsApp Image 2024-06-09 at 17 25 52_9f9f88cf](https://github.com/AMAN1011011/accenture-VI-analytics-and-visualization-task/assets/95334005/a01e3fbe-cac2-464b-a450-3077e94b5178)
+
 
 ### DATA CLEANING:
 #### Content data set:
@@ -23,5 +26,5 @@ add one more sheet and rename as reaction type and paste reaction data type ther
 so our task is completed according to the requirement of submitting  a single data file to perform the further analysis.
 
 
-###SCREEN SHOT
+### SCREEN SHOT
 ![Screenshot 2024-06-12 011647](https://github.com/AMAN1011011/accenture-VI-analytics-and-visualization-task/assets/95334005/3fbb124c-f65a-4136-8033-ab498664cfcc)
